@@ -1,0 +1,7 @@
+{
+"node_1": "What is the part number for the INFLUX REFUELLING SENSORETTE in model CATALYST1000-5XORAPP99?",
+"node_2": "Is it ok to use a thicker cable in the model?",
+"node_3": "When I open VALVE1 on a CATALYST2000-15XORAPP99 and the OPTIMAXPEEPER shows a \"normal\" reading, what actual performance should I expect to measure?",
+"node_4": "For the current model, tell me the correct input voltage.",
+"node_5": "Can you confirm that the resistance values of the MRGT1-sensor, MRGT2-sensor and OPL9-sensor read about 10kΩ at 75°C?"
+}
