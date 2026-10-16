@@ -1,0 +1,7 @@
+repository=meta-llama/Llama-3.3-70B-Instruct
+revision=6f6073b423013f6a7d4d9f39144961bfbfbc386b
+
+python=3.11.13
+transformers=4.56.1
+tokenizers=0.22.0
+huggingface_hub=0.35.0
